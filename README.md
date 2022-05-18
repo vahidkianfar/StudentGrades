@@ -1,4 +1,4 @@
-# This console app has an interaction menu, just run it🙏.
+# This console app has an interaction menu, just run it and have fun🙏.
 
 It contains:
 
