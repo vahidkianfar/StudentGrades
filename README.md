@@ -1,6 +1,13 @@
 # This console app has an interaction menu, just run it🙏.
 
+It contains:
+
+1. UML Diagram
+2. Models
+
+
 Business Requirement: 
+
 We’ve just had a request from a school and they would like to track student grades for the Mathematics class. It’s the end of the school term and  the teacher would like to input the student grades into a system. They would like your help to design and code up a class to represent a student. 
 You can find the business acceptance criteria below: 
 Business Acceptance Criteria: 
